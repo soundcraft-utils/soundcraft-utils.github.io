@@ -1,3 +1,10 @@
 title: Soundcraft-Utils
 theme: jekyll-theme-minimal
 logo: /images/soundcraft-utils.svg
+github:
+    is_user_page: false
+    is_project_page: true
+    repository_url: https://github.com/lack/soundcraft-utils
+    repository_nwo: lack/soundcraft-utils
+    owner_url: https://github.com/lack
+    owner_name: Jim Ramsay
